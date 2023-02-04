@@ -1,0 +1,2 @@
+a1=abcdefghijklmnopqrstuvwxyz
+a2=абвгґдеєжзиіїйклмнопрстуфхцчшщьюя
